@@ -81,13 +81,12 @@ def get_channels(urls):
 def print_channels(_channels):
     root = eT.Element('data')
     for news in _channels:
-        chan = eT.SubElement(root, 'channel')
-        eT.SubElement(chan, 'name').text = unicode(news.get_channel())
-        news_et = eT.SubElement(chan, 'news')
-        eT.SubElement(news_et, 'theme').text = unicode(news.get_theme())
-        eT.SubElement(news_et, 'text').text = unicode(news.get_text())
+        chan = eT.SubElement(root, 'news')
+        eT.SubElement(chan, 'channel').text = unicode(news.get_channel())
+        eT.SubElement(chan, 'theme').text = unicode(news.get_theme())
+        eT.SubElement(chan, 'text').text = unicode(news.get_text())
         # print(news.get_text())
-        eT.SubElement(news_et, 'duplication').text = str(news.get_duplication())
+        eT.SubElement(chan, 'duplication').text = str(news.get_duplication())
     tree = eT.ElementTree(root)
     tree.write('channels.xml')
 
@@ -131,12 +130,30 @@ def get_list_of_shingles(text):
     return new_text
 
 
+def work_sync(_channels):
+    for news in _channels:
+        news.find_duplications(_channels)
+
+
+def work(_channels):
+    f = open('main.config', 'r')
+    s = f.read()
+    if s[14:] == 'async':
+        print 'Async:\n\t'
+        gevent.joinall(get_threads(_channels))
+    else:
+        print 'Sync:\n\t'
+        work_sync(_channels)
+
+
 channels = get_channels(get_data_from_xml())
+
+print("Complete downloading rss file's")
 
 t = time.time()
 
-gevent.joinall(get_threads(channels))
+work(channels)
 
-print time.time() - t
+print 'work time:', time.time() - t, ' ms'
 
 print_channels(channels)
