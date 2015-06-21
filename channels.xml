@@ -1,0 +1,2105 @@
+<data>
+    <channel>
+        <name>{'updated': u'Sun, 21 Jun 2015 13:22:47 GMT', 'published_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'World',
+            'language': u'en-us', 'links': [{'href': u'http://www.nytimes.com/services/xml/rss/nyt/World.xml', 'type':
+            u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World', 'ttl': u'5', 'image': {'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'href': u'http://graphics8.nytimes.com/images/misc/NYT_logo_rss_250x40.png', 'link':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'links': [{'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World'}, 'rights': u'Copyright 2015 The New York Times Company',
+            'subtitle_detail': {'base': u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/html',
+            'value': u'World', 'language': None}, 'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'link': u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss',
+            'published': u'Sun, 21 Jun 2015 13:22:47 GMT', 'rights_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'Copyright 2015
+            The New York Times Company', 'language': None}, 'updated_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0)}
+        </name>
+        <news>
+            <theme>Tell Us How Your Church Addressed the Pope&#8217;s Encyclical</theme>
+            <text>The Times wants to know how places of worship in the United States and around the world are responding
+                to Francis&#8217; message on the environment and climate change.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'updated': u'Sun, 21 Jun 2015 13:22:47 GMT', 'published_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'World',
+            'language': u'en-us', 'links': [{'href': u'http://www.nytimes.com/services/xml/rss/nyt/World.xml', 'type':
+            u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World', 'ttl': u'5', 'image': {'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'href': u'http://graphics8.nytimes.com/images/misc/NYT_logo_rss_250x40.png', 'link':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'links': [{'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World'}, 'rights': u'Copyright 2015 The New York Times Company',
+            'subtitle_detail': {'base': u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/html',
+            'value': u'World', 'language': None}, 'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'link': u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss',
+            'published': u'Sun, 21 Jun 2015 13:22:47 GMT', 'rights_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'Copyright 2015
+            The New York Times Company', 'language': None}, 'updated_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0)}
+        </name>
+        <news>
+            <theme>Tells Us How Your Church Addressed the Pope&#8217;s Encyclical</theme>
+            <text>The Times wants to know how places of worship in the United States and around the world are responding
+                to Francis&#8217; message on the environment and climate change.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'updated': u'Sun, 21 Jun 2015 13:22:47 GMT', 'published_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'World',
+            'language': u'en-us', 'links': [{'href': u'http://www.nytimes.com/services/xml/rss/nyt/World.xml', 'type':
+            u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World', 'ttl': u'5', 'image': {'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'href': u'http://graphics8.nytimes.com/images/misc/NYT_logo_rss_250x40.png', 'link':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'links': [{'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World'}, 'rights': u'Copyright 2015 The New York Times Company',
+            'subtitle_detail': {'base': u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/html',
+            'value': u'World', 'language': None}, 'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'link': u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss',
+            'published': u'Sun, 21 Jun 2015 13:22:47 GMT', 'rights_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'Copyright 2015
+            The New York Times Company', 'language': None}, 'updated_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0)}
+        </name>
+        <news>
+            <theme>Cables Released by WikiLeaks Reveal Saudis&#8217; Checkbook Diplomacy</theme>
+            <text>The revelations appear in a trove of documents said to have come from inside the Saudi Ministry of
+                Foreign Affairs and released by the group WikiLeaks.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'updated': u'Sun, 21 Jun 2015 13:22:47 GMT', 'published_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'World',
+            'language': u'en-us', 'links': [{'href': u'http://www.nytimes.com/services/xml/rss/nyt/World.xml', 'type':
+            u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World', 'ttl': u'5', 'image': {'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'href': u'http://graphics8.nytimes.com/images/misc/NYT_logo_rss_250x40.png', 'link':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'links': [{'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World'}, 'rights': u'Copyright 2015 The New York Times Company',
+            'subtitle_detail': {'base': u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/html',
+            'value': u'World', 'language': None}, 'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'link': u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss',
+            'published': u'Sun, 21 Jun 2015 13:22:47 GMT', 'rights_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'Copyright 2015
+            The New York Times Company', 'language': None}, 'updated_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0)}
+        </name>
+        <news>
+            <theme>Roadside Bomb Kills at Least 12 Afghans on Their Way Home</theme>
+            <text>The blast occurred in the Marja district of Helmand Province, a Taliban stronghold, killing at least
+                12 members of a family and wounding eight.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'updated': u'Sun, 21 Jun 2015 13:22:47 GMT', 'published_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'World',
+            'language': u'en-us', 'links': [{'href': u'http://www.nytimes.com/services/xml/rss/nyt/World.xml', 'type':
+            u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World', 'ttl': u'5', 'image': {'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'href': u'http://graphics8.nytimes.com/images/misc/NYT_logo_rss_250x40.png', 'link':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'links': [{'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World'}, 'rights': u'Copyright 2015 The New York Times Company',
+            'subtitle_detail': {'base': u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/html',
+            'value': u'World', 'language': None}, 'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'link': u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss',
+            'published': u'Sun, 21 Jun 2015 13:22:47 GMT', 'rights_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'Copyright 2015
+            The New York Times Company', 'language': None}, 'updated_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0)}
+        </name>
+        <news>
+            <theme>Assailants Target Police in Burundi</theme>
+            <text>Eleven police officers were wounded overnight when gunmen hurled grenades and attacked police stations
+                across Bujumbura, Burundi&#8217;s capital.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'updated': u'Sun, 21 Jun 2015 13:22:47 GMT', 'published_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'World',
+            'language': u'en-us', 'links': [{'href': u'http://www.nytimes.com/services/xml/rss/nyt/World.xml', 'type':
+            u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World', 'ttl': u'5', 'image': {'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'href': u'http://graphics8.nytimes.com/images/misc/NYT_logo_rss_250x40.png', 'link':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'links': [{'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World'}, 'rights': u'Copyright 2015 The New York Times Company',
+            'subtitle_detail': {'base': u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/html',
+            'value': u'World', 'language': None}, 'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'link': u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss',
+            'published': u'Sun, 21 Jun 2015 13:22:47 GMT', 'rights_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'Copyright 2015
+            The New York Times Company', 'language': None}, 'updated_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0)}
+        </name>
+        <news>
+            <theme>Al Jazeera Journalist Detained in Germany</theme>
+            <text>Responding to an Egyptian arrest warrant, the authorities detained Ahmed Mansour at Berlin&#8217;s
+                Tegel airport.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'updated': u'Sun, 21 Jun 2015 13:22:47 GMT', 'published_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'World',
+            'language': u'en-us', 'links': [{'href': u'http://www.nytimes.com/services/xml/rss/nyt/World.xml', 'type':
+            u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World', 'ttl': u'5', 'image': {'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'href': u'http://graphics8.nytimes.com/images/misc/NYT_logo_rss_250x40.png', 'link':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'links': [{'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World'}, 'rights': u'Copyright 2015 The New York Times Company',
+            'subtitle_detail': {'base': u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/html',
+            'value': u'World', 'language': None}, 'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'link': u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss',
+            'published': u'Sun, 21 Jun 2015 13:22:47 GMT', 'rights_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'Copyright 2015
+            The New York Times Company', 'language': None}, 'updated_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0)}
+        </name>
+        <news>
+            <theme>Car Bombing in Yemen&#8217;s Capital Kills at Least 2</theme>
+            <text>The attack on a mosque wounded at least six people, and the Islamic State&#8217;s Yemeni affiliate
+                claimed responsibility.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'updated': u'Sun, 21 Jun 2015 13:22:47 GMT', 'published_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'World',
+            'language': u'en-us', 'links': [{'href': u'http://www.nytimes.com/services/xml/rss/nyt/World.xml', 'type':
+            u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World', 'ttl': u'5', 'image': {'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'href': u'http://graphics8.nytimes.com/images/misc/NYT_logo_rss_250x40.png', 'link':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'links': [{'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World'}, 'rights': u'Copyright 2015 The New York Times Company',
+            'subtitle_detail': {'base': u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/html',
+            'value': u'World', 'language': None}, 'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'link': u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss',
+            'published': u'Sun, 21 Jun 2015 13:22:47 GMT', 'rights_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'Copyright 2015
+            The New York Times Company', 'language': None}, 'updated_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0)}
+        </name>
+        <news>
+            <theme>Attack Gave Chinese Hackers Privileged Access to U.S. Systems</theme>
+            <text>Undetected for nearly a year, Chinese intruders executed a sophisticated hack that gave them &#8220;administrator
+                privileges&#8221; in government networks. Their ultimate target: information on anyone seeking a
+                security clearance.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'updated': u'Sun, 21 Jun 2015 13:22:47 GMT', 'published_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'World',
+            'language': u'en-us', 'links': [{'href': u'http://www.nytimes.com/services/xml/rss/nyt/World.xml', 'type':
+            u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World', 'ttl': u'5', 'image': {'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'href': u'http://graphics8.nytimes.com/images/misc/NYT_logo_rss_250x40.png', 'link':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'links': [{'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World'}, 'rights': u'Copyright 2015 The New York Times Company',
+            'subtitle_detail': {'base': u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/html',
+            'value': u'World', 'language': None}, 'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'link': u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss',
+            'published': u'Sun, 21 Jun 2015 13:22:47 GMT', 'rights_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'Copyright 2015
+            The New York Times Company', 'language': None}, 'updated_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0)}
+        </name>
+        <news>
+            <theme>Suit Has South Korea Looking Anew at Its Hard Line on Prostitution</theme>
+            <text>The case follows a landmark decision that decriminalized adultery, and reflects continuing changes in
+                the nation&#8217;s social attitudes toward sex.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'updated': u'Sun, 21 Jun 2015 13:22:47 GMT', 'published_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'World',
+            'language': u'en-us', 'links': [{'href': u'http://www.nytimes.com/services/xml/rss/nyt/World.xml', 'type':
+            u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World', 'ttl': u'5', 'image': {'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'href': u'http://graphics8.nytimes.com/images/misc/NYT_logo_rss_250x40.png', 'link':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'links': [{'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World'}, 'rights': u'Copyright 2015 The New York Times Company',
+            'subtitle_detail': {'base': u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/html',
+            'value': u'World', 'language': None}, 'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'link': u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss',
+            'published': u'Sun, 21 Jun 2015 13:22:47 GMT', 'rights_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'Copyright 2015
+            The New York Times Company', 'language': None}, 'updated_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0)}
+        </name>
+        <news>
+            <theme>Opinion: The Chinese Want Their Art Back</theme>
+            <text>The government, state-run companies, private collectors and even some criminals are all trying to
+                return antiquities to China.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'updated': u'Sun, 21 Jun 2015 13:22:47 GMT', 'published_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'World',
+            'language': u'en-us', 'links': [{'href': u'http://www.nytimes.com/services/xml/rss/nyt/World.xml', 'type':
+            u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World', 'ttl': u'5', 'image': {'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'href': u'http://graphics8.nytimes.com/images/misc/NYT_logo_rss_250x40.png', 'link':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'links': [{'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World'}, 'rights': u'Copyright 2015 The New York Times Company',
+            'subtitle_detail': {'base': u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/html',
+            'value': u'World', 'language': None}, 'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'link': u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss',
+            'published': u'Sun, 21 Jun 2015 13:22:47 GMT', 'rights_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'Copyright 2015
+            The New York Times Company', 'language': None}, 'updated_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0)}
+        </name>
+        <news>
+            <theme>13 Arrested in China After Clashes With Police</theme>
+            <text>The police in a southern Chinese township arrested 13 people who illegally detained officials and
+                police officers and stormed a police station and a government building in a dispute over a young woman&#8217;s
+                death.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'updated': u'Sun, 21 Jun 2015 13:22:47 GMT', 'published_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'World',
+            'language': u'en-us', 'links': [{'href': u'http://www.nytimes.com/services/xml/rss/nyt/World.xml', 'type':
+            u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World', 'ttl': u'5', 'image': {'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'href': u'http://graphics8.nytimes.com/images/misc/NYT_logo_rss_250x40.png', 'link':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'links': [{'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World'}, 'rights': u'Copyright 2015 The New York Times Company',
+            'subtitle_detail': {'base': u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/html',
+            'value': u'World', 'language': None}, 'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'link': u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss',
+            'published': u'Sun, 21 Jun 2015 13:22:47 GMT', 'rights_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'Copyright 2015
+            The New York Times Company', 'language': None}, 'updated_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0)}
+        </name>
+        <news>
+            <theme>Gaza Welcomes Break From Strife and Reopening of Border With Egypt</theme>
+            <text>First, Egypt opened its border crossing, suggesting a thaw in relations between the Egyptian
+                government and Hamas, and then news emerged that Hamas had begun quiet negotiations with Israel to
+                extend a truce.
+            </text>
+            <duplication>3.84615384615</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'updated': u'Sun, 21 Jun 2015 13:22:47 GMT', 'published_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'World',
+            'language': u'en-us', 'links': [{'href': u'http://www.nytimes.com/services/xml/rss/nyt/World.xml', 'type':
+            u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World', 'ttl': u'5', 'image': {'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'href': u'http://graphics8.nytimes.com/images/misc/NYT_logo_rss_250x40.png', 'link':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'links': [{'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World'}, 'rights': u'Copyright 2015 The New York Times Company',
+            'subtitle_detail': {'base': u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/html',
+            'value': u'World', 'language': None}, 'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'link': u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss',
+            'published': u'Sun, 21 Jun 2015 13:22:47 GMT', 'rights_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'Copyright 2015
+            The New York Times Company', 'language': None}, 'updated_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0)}
+        </name>
+        <news>
+            <theme>Maraj&#243; Island Journal: To Soften Image, Brazilian Police Ride In Atop Horned Beasts</theme>
+            <text>&#8220;Being the guy on the buffalo makes me more approachable, making my job a little bit easier,&#8221;
+                is how one officer in Maraj&#243;, Brazil, explained it.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'updated': u'Sun, 21 Jun 2015 13:22:47 GMT', 'published_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'World',
+            'language': u'en-us', 'links': [{'href': u'http://www.nytimes.com/services/xml/rss/nyt/World.xml', 'type':
+            u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World', 'ttl': u'5', 'image': {'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'href': u'http://graphics8.nytimes.com/images/misc/NYT_logo_rss_250x40.png', 'link':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'links': [{'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World'}, 'rights': u'Copyright 2015 The New York Times Company',
+            'subtitle_detail': {'base': u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/html',
+            'value': u'World', 'language': None}, 'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'link': u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss',
+            'published': u'Sun, 21 Jun 2015 13:22:47 GMT', 'rights_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'Copyright 2015
+            The New York Times Company', 'language': None}, 'updated_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0)}
+        </name>
+        <news>
+            <theme>For Faithful, Social Justice Goals Demand Action on Environment</theme>
+            <text>Many faith traditions are awakening to the burden that climate change is placing on poor people, and
+                finding justification for caring for the environment in their scripture.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'updated': u'Sun, 21 Jun 2015 13:22:47 GMT', 'published_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'World',
+            'language': u'en-us', 'links': [{'href': u'http://www.nytimes.com/services/xml/rss/nyt/World.xml', 'type':
+            u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World', 'ttl': u'5', 'image': {'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'href': u'http://graphics8.nytimes.com/images/misc/NYT_logo_rss_250x40.png', 'link':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'links': [{'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World'}, 'rights': u'Copyright 2015 The New York Times Company',
+            'subtitle_detail': {'base': u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/html',
+            'value': u'World', 'language': None}, 'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'link': u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss',
+            'published': u'Sun, 21 Jun 2015 13:22:47 GMT', 'rights_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'Copyright 2015
+            The New York Times Company', 'language': None}, 'updated_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0)}
+        </name>
+        <news>
+            <theme>Toxic Liquor in India Kills at Least 84</theme>
+            <text>The dead lived in a Mumbai-area slum, and the toll was expected to rise. More than 30 people were
+                hospitalized, many in serious condition, the police said.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'updated': u'Sun, 21 Jun 2015 13:22:47 GMT', 'published_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'World',
+            'language': u'en-us', 'links': [{'href': u'http://www.nytimes.com/services/xml/rss/nyt/World.xml', 'type':
+            u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World', 'ttl': u'5', 'image': {'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'href': u'http://graphics8.nytimes.com/images/misc/NYT_logo_rss_250x40.png', 'link':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'links': [{'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World'}, 'rights': u'Copyright 2015 The New York Times Company',
+            'subtitle_detail': {'base': u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/html',
+            'value': u'World', 'language': None}, 'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'link': u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss',
+            'published': u'Sun, 21 Jun 2015 13:22:47 GMT', 'rights_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'Copyright 2015
+            The New York Times Company', 'language': None}, 'updated_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0)}
+        </name>
+        <news>
+            <theme>Op-Ed Contributor: Pope Francis&#8217; Climate Error</theme>
+            <text>To control emissions, a carbon market is best.</text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'updated': u'Sun, 21 Jun 2015 13:22:47 GMT', 'published_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'World',
+            'language': u'en-us', 'links': [{'href': u'http://www.nytimes.com/services/xml/rss/nyt/World.xml', 'type':
+            u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World', 'ttl': u'5', 'image': {'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'href': u'http://graphics8.nytimes.com/images/misc/NYT_logo_rss_250x40.png', 'link':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'links': [{'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World'}, 'rights': u'Copyright 2015 The New York Times Company',
+            'subtitle_detail': {'base': u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/html',
+            'value': u'World', 'language': None}, 'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'link': u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss',
+            'published': u'Sun, 21 Jun 2015 13:22:47 GMT', 'rights_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'Copyright 2015
+            The New York Times Company', 'language': None}, 'updated_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0)}
+        </name>
+        <news>
+            <theme>Dominican Deadline Passes Without Mass Expulsion of Haitian Migrants</theme>
+            <text>The expected mass deportation of Haitian immigrants in the Dominican Republic failed to materialize in
+                the two days after the government&#8217;s deadline for them to normalize their status.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'updated': u'Sun, 21 Jun 2015 13:22:47 GMT', 'published_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'World',
+            'language': u'en-us', 'links': [{'href': u'http://www.nytimes.com/services/xml/rss/nyt/World.xml', 'type':
+            u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World', 'ttl': u'5', 'image': {'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'href': u'http://graphics8.nytimes.com/images/misc/NYT_logo_rss_250x40.png', 'link':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'links': [{'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World'}, 'rights': u'Copyright 2015 The New York Times Company',
+            'subtitle_detail': {'base': u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/html',
+            'value': u'World', 'language': None}, 'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'link': u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss',
+            'published': u'Sun, 21 Jun 2015 13:22:47 GMT', 'rights_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'Copyright 2015
+            The New York Times Company', 'language': None}, 'updated_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0)}
+        </name>
+        <news>
+            <theme>Genome Studies Show How Ebola Spread Initially</theme>
+            <text>Scientists have developed a fuller picture of how the virus spread and evolved by tracking mutations
+                in its genome.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'updated': u'Sun, 21 Jun 2015 13:22:47 GMT', 'published_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'World',
+            'language': u'en-us', 'links': [{'href': u'http://www.nytimes.com/services/xml/rss/nyt/World.xml', 'type':
+            u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World', 'ttl': u'5', 'image': {'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'href': u'http://graphics8.nytimes.com/images/misc/NYT_logo_rss_250x40.png', 'link':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'links': [{'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World'}, 'rights': u'Copyright 2015 The New York Times Company',
+            'subtitle_detail': {'base': u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/html',
+            'value': u'World', 'language': None}, 'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'link': u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss',
+            'published': u'Sun, 21 Jun 2015 13:22:47 GMT', 'rights_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'Copyright 2015
+            The New York Times Company', 'language': None}, 'updated_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0)}
+        </name>
+        <news>
+            <theme>World Briefing: Mexico: Ex-Governor Charged</theme>
+            <text>The former governor of the northeast Mexican border state of Tamaulipas has been indicted on
+                money-laundering charges in South Texas, prosecutors said Friday.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'updated': u'Sun, 21 Jun 2015 13:22:47 GMT', 'published_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'World',
+            'language': u'en-us', 'links': [{'href': u'http://www.nytimes.com/services/xml/rss/nyt/World.xml', 'type':
+            u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World', 'ttl': u'5', 'image': {'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'href': u'http://graphics8.nytimes.com/images/misc/NYT_logo_rss_250x40.png', 'link':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'links': [{'href':
+            u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss', 'type': u'text/html', 'rel':
+            u'alternate'}], 'title': u'NYT &gt; World'}, 'rights': u'Copyright 2015 The New York Times Company',
+            'subtitle_detail': {'base': u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/html',
+            'value': u'World', 'language': None}, 'title_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'NYT &gt; World',
+            'language': None}, 'link': u'http://www.nytimes.com/pages/world/index.html?partner=rss&amp;emc=rss',
+            'published': u'Sun, 21 Jun 2015 13:22:47 GMT', 'rights_detail': {'base':
+            u'http://rss.nytimes.com/services/xml/rss/nyt/World.xml', 'type': u'text/plain', 'value': u'Copyright 2015
+            The New York Times Company', 'language': None}, 'updated_parsed': time.struct_time(tm_year=2015, tm_mon=6,
+            tm_mday=21, tm_hour=13, tm_min=22, tm_sec=47, tm_wday=6, tm_yday=172, tm_isdst=0)}
+        </name>
+        <news>
+            <theme>World Briefing: Russia: Election Bill Advances</theme>
+            <text>Lawmakers in the lower house of Parliament gave tentative approval on Friday to a bill that would move
+                up next year&#8217;s parliamentary elections by three months.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>15 facts about sea level rise that should scare the hell out of you</theme>
+            <text>I'm recently back from the Marshall Islands -- one of the low-lying Pacific island nations that
+                literally could be wiped off the map by climate change and rising seas.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>The world's critically endangered species</theme>
+            <text>The world's animal population has halved in 40 years as humans put unsustainable demands on Earth,
+                according to a 2014 report from the World Wide Fund for Nature.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>Stowaway falls from British Airways plane</theme>
+            <text>A stowaway on a British Airways jet was found dead after falling on a roof as the plane approached
+                London Heathrow Airport, authorities said Friday.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>India ties itself in knots over International Yoga Day</theme>
+            <text>The Sanskrit word "yoga" may mean union but, for some in India, yoga has never been more divisive.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>Johnny Depp's 'private village' up for sale at $26 million</theme>
+            <text>Known for his swashbuckling role in the "Pirates of the Caribbean" movies, actor Johnny Depp has put
+                one of his most treasured items on the market.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>$3.4 billion worth of art in a little corner of Switzerland</theme>
+            <text>Art Basel is a behemoth. Think of it as the ultimate superstore of the art market with its endless
+                aisles and swarms of shoppers. The annual event that bears the clich&#233; distinction "mother of all
+                art fairs" is in its 46th year, open for business now through June 21 in its namesake Swiss hometown. It
+                features 300 or so international exhibiting galleries hailing from five continents, and reportedly $3.4
+                billion worth of art. And if it's anything like it was last year, it will draw a crowd of more than
+                92,000 people over the course of the week-long event.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>Why does this man want you to wash with oil?</theme>
+            <text>If you thought vegetable oil was only for cooking, think again. In Lusaka, Zambia, one entrepreneur is
+                converting used oil into fuel and soap.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>How to look like this on $100 a month</theme>
+            <text>Meet Lourens "Loux" Gebhardt -- a viral sensation from Namibia using social media to teach men how to
+                dress.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>Paying a premium for green in England</theme>
+            <text>The grounds of the Medmenham Abbey in Buckinghamshire, England, could easily be the set of a
+                romanticized period drama.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>Friend or food? Dog meat trade divides China</theme>
+            <text>Yulin's dog meat "festival," where some 10,000 dogs are slaughtered and served up as meals, is often
+                wrongly assumed to be an ancient Chinese tradition.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>Refugee numbers reach highest ever recorded</theme>
+            <text>There are more refugees in the world today than ever documented and more than half are children.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>Soccer players fired over Thai orgy</theme>
+            <text>Three players for English football club Leicester City, including the son of the club's manager, have
+                been sacked after video surfaced of them apparently participating in a racist orgy on the team's recent
+                Thai tour.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>Chad strikes Boko Haram in Nigeria, bans burqas</theme>
+            <text>The central African country of Chad conducted airstrikes against Boko Haram sites in neighboring
+                Nigeria on Wednesday and announced it has banned burqas, the head-to-toe garment worn by some Muslim
+                women, after twin bombings earlier this week by veiled attackers.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>Sister from missing UK family makes contact</theme>
+            <text>CNN's Nic Robertson says a sister from the missing family in Bradford, England has made contact by
+                phone but may already be in Syria.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>Iraqi Sunni soldiers graduate amid complaints</theme>
+            <text>"They're over there," the provincial official said, winking and motioning with his head toward a group
+                of men in khaki uniforms huddled around a black Humvee.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>See inside an ISIS security building</theme>
+            <text>CNN's Arwa Damon visits an ISIS security building in the recently liberated Syrian town of Tal
+                Abyad.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>U.S. soldier dead in S. Korea</theme>
+            <text>An American soldier has died during a training exercise in South Korea, the U.S. military said
+                Thursday.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>Was Israel church fire arson?</theme>
+            <text>A church at the site in Israel where Christians believe Jesus fed 5,000 people with five loaves and
+                two fish has been badly damaged by a fire that police suspect may have been started intentionally.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>Russia opens 'military Disneyland'</theme>
+            <text>CNN's Matthew Chance visits a park outside Moscow where families get the chance to play around with
+                tanks, missile launchers and other assorted Russian military hardware.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>U.S. Air Force may send F-22s over Russia 'threat'</theme>
+            <text>The U.S. Air Force could be sending some of its most advanced warplanes to Europe in a show of force
+                against Russian actions in Ukraine and elsewhere around the continent, the service's top civilian said
+                Monday.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>Hand-knitted heist rocks tiny Scottish island</theme>
+            <text>Six woolly hats, a clutch of candy bars, coffee, biscuits and batteries were the unlikely targets of
+                what's being dubbed the "crime of the century" on the tiny Scottish island of Canna.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>5 powerful quotes from Pope's encyclical</theme>
+            <text>Here are some of the most powerful quotes from Pope Francis' encyclical on the environment released
+                Thursday:
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>How a scientist in a parking lot may have influenced the Pope and climate change</theme>
+            <text>Professor Veerabhadran Ramanathan is a man of science who deals in data-driven evidence and provable
+                facts, but he is absolutely convinced religion is the key to stopping global warming.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>The Pope's life-embracing, anti-digital media sermon</theme>
+            <text>The latest zeitgeist commentary from that keen social observer and populist pundit, Pope Francis, has
+                arrived like an Easter egg, hidden inside a larger basket of criticism focused on climate change. The
+                Pope's 192-page encyclical letter, mainly about global warming, also contains brief but scathing remarks
+                on the digital filter we put on our human experience.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>Pope prays before shroud of Turin</theme>
+            <text>Pope Francis plans to pray Sunday before the shroud of Turin, a piece of cloth that some believe is
+                the burial wrapping of Jesus Christ.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>Religious extremism looms over Myanmar</theme>
+            <text>The impact of Myanmar's repressive policy toward Rohingya Muslims was made clear in recent weeks with
+                scenes of desperate people crammed into boats, an escalation of a miserable maritime flight in which an
+                estimated 90,000 people have fallen prey to smugglers and traffickers since early 2014. The United
+                Nations estimates that around 1,000 people have died on the way.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>What if ISIS seeks dirty bomb?</theme>
+            <text>Last week, the news emerged that ISIS terrorists have reportedly obtained radioactive materials from
+                hospitals and research facilities captured in Iraq with a view to developing a radioactive "dirty bomb."
+            </text>
+            <duplication>3.84615384615</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>Sexual politics and the Mideast</theme>
+            <text>In a packed Cairo theater a couple of months ago, Ali Qandil brought down the house.</text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>Is child marriage coming to an end?</theme>
+            <text>Today marks the Day of the African Child. This day was created by the African Union to commemorate a
+                tragedy -- the massacre of hundreds of children in Soweto, South Africa who were demonstrating for the
+                basic right to a decent education. Since then, the day has been used as an opportunity to focus a global
+                spotlight on the injustices African children face, and on the actions we all need to take to ensure they
+                can realize their rights.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>Drone victims' family seeks justice</theme>
+            <text>In April this year, in the wake of the deaths of an American, Warren Weinstein, and an Italian,
+                Giovanni Lo Porto, in a U.S. counterterrorism operation, U.S. President Barack Obama made an historic
+                announcement, in which he said the following: "I take full responsibility for all our counterterrorism
+                operations, including the one that inadvertently took the lives of Warren and Giovanni.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>How FIFA hid a most pernicious evil</theme>
+            <text>If you think FIFA is all about sport, you're missing the most important and potentially transformative
+                campaign to uncover and punish the misdeeds of people who use soccer as a way to enrich themselves and
+                their friends.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>Orange: The new black in Bangladesh?</theme>
+            <text>When he first arrived in Bangladesh, photographer Ernst Coppejans saw it everywhere: men who had dyed
+                their hair or their facial hair orange.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>New Zealand's most notorious gang: The Mongrel Mob</theme>
+            <text>A look at Jono Rotman's photos of bikers from New Zealand's Mighty Mongrel Mob, which is known for
+                covering their faces with tattoos.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>Spray paint, but without the street art</theme>
+            <text>It's spray paint but not as you know it -- while street art may have risen in popularity, the works on
+                display are the polar opposite.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>Plane spotting at Le Bourget Airshow 2015</theme>
+            <text>The 2015 Le Bourget Airshow is underway near Paris, filling the skies with some of the world's most
+                impressive aircraft. The gallery above highlights of what is regarded as one of the aviation industry's
+                most prestigious events.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>Look at me! 26 selfies of the week</theme>
+            <text>Take a look at 26 selfies of the week from June 9 through June 16.</text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>The week in 39 photos</theme>
+            <text>Take a look at 39 photos of the week from June 4 through June 11.</text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>Abandoned Chinese village swallowed by vines</theme>
+            <text>Ferns, weeds, and vines have completely covered this once bustling island town in China.</text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>What a shot! 41 amazing sports photos</theme>
+            <text>Take a look at 41 amazing sports photos from June 9 through June 15.</text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>The Annie Leibovitz of the Victorian era</theme>
+            <text>At a time when photography was still an evolving art form and dominated by men, Julia Margaret Cameron
+                was taking stunning pictures of some of the 19th century's most notable personalities.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>Classic paintings reimagined into urban settings</theme>
+            <text>Ukrainian artist Alexey Kondakov has photoshopped characters from mythology and antiquity into the
+                modern day city. Browse through the gallery to see all the images.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>Rare images of a 'rock star' mega-ship</theme>
+            <text>The Maersk Majestic is nearly as long as four NFL football fields. It's also taller than a 20-story
+                building and too wide to pass through the Panama Canal.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>The Transformer superyacht that's also a jet</theme>
+            <text>As if superyachts weren't audacious and expensive enough already.</text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>Paying a premium for England's green and pleasant lands</theme>
+            <text>The grounds of the Medmenham Abbey in Buckinghamshire, England, could easily be the set of a
+                romanticized period drama.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>Fighting to win against the forces of nature</theme>
+            <text>Two CNN Heroes are among the earthquake survivors in Kathmandu, Nepal. And they are struggling in the
+                aftermath.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+    <channel>
+        <name>{'published_parsed': time.struct_time(tm_year=2015, tm_mon=6, tm_mday=21, tm_hour=10, tm_min=3, tm_sec=58,
+            tm_wday=6, tm_yday=172, tm_isdst=0), 'subtitle': u'CNN.com delivers up-to-the-minute news and information on
+            the latest top stories, weather, entertainment, politics and more.', 'language': u'en-US', 'links':
+            [{'href': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'},
+            {'href': u'http://rss.cnn.com/rss/edition_world', 'type': u'application/rss+xml', 'rel': u'self'}, {'href':
+            u'http://pubsubhubbub.appspot.com/', 'type': u'text/html', 'rel': u'hub'}], 'title': u'CNN.com - World',
+            'ttl': u'10', 'image': {'subtitle': u'CNN.com delivers up-to-the-minute news and information on the latest
+            top stories, weather, entertainment, politics and more.', 'links': [{'href':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'type': u'text/html', 'rel': u'alternate'}], 'title':
+            u'CNN.com - World', 'height': 33, 'width': 144, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'href': u'http://i.cdn.turner.com/cnn/.e/img/1.0/logo/cnn.logo.rss.gif', 'link':
+            u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'subtitle_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/html', 'value': u'CNN.com delivers
+            up-to-the-minute news and information on the latest top stories, weather, entertainment, politics and
+            more.', 'language': None}}, 'rights': u'Copyright 2015 Cable News Network LP, LLLP.', 'feedburner_info':
+            {'uri': u'rss/edition_world'}, 'subtitle_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss',
+            'type': u'text/html', 'value': u'CNN.com delivers up-to-the-minute news and information on the latest top
+            stories, weather, entertainment, politics and more.', 'language': None}, 'title_detail': {'base':
+            u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain', 'value': u'CNN.com - World', 'language':
+            None}, 'link': u'http://www.cnn.com/WORLD/index.html?eref=rss_world', 'published': u'Sun, 21 Jun 2015
+            06:03:58 EDT', 'rights_detail': {'base': u'http://rss.cnn.com/rss/edition_world.rss', 'type': u'text/plain',
+            'value': u'Copyright 2015 Cable News Network LP, LLLP.', 'language': None}}
+        </name>
+        <news>
+            <theme>'It just went ballistic': Shark attacks teenager</theme>
+            <text>A shark attacked a teenager while he was spearfishing near a popular Australian beach. CNN affiliate
+                Seven Network reports.
+            </text>
+            <duplication>0</duplication>
+        </news>
+    </channel>
+</data>
