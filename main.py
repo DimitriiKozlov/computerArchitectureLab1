@@ -78,17 +78,16 @@ def get_channels(urls):
     return _channels
 
 
-def print_channels(_channels):
+def print_channels(name, _channels):
     root = eT.Element('data')
     for news in _channels:
         chan = eT.SubElement(root, 'news')
         eT.SubElement(chan, 'channel').text = unicode(news.get_channel())
         eT.SubElement(chan, 'theme').text = unicode(news.get_theme())
         eT.SubElement(chan, 'text').text = unicode(news.get_text())
-        # print(news.get_text())
         eT.SubElement(chan, 'duplication').text = str(news.get_duplication())
     tree = eT.ElementTree(root)
-    tree.write('channels.xml')
+    tree.write(name)
 
 
 def get_hash(text):
@@ -111,6 +110,7 @@ def find_duplication2(hash1, hash2):
 
 def get_threads(_channels):
     threads = []
+    _channels = [News('C', 'T', 'T')]
     for news in _channels:
         threads.append(gevent.spawn(news.find_duplications, _channels))
     return threads
@@ -156,4 +156,4 @@ work(channels)
 
 print 'work time:', time.time() - t, ' ms'
 
-print_channels(channels)
+print_channels('channels.xml', channels)
