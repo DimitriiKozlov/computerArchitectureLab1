@@ -1,10 +1,6 @@
 __author__ = 'Dimitrii Kozlov'
 
-import xml.etree.cElementTree as ET
-# from xml.dom import minidom
-# import re
-# import sys
-# import requests
+import xml.etree.cElementTree as eT
 import feedparser
 import binascii
 import gevent
@@ -33,9 +29,9 @@ class News(Greenlet):
         self.text = text
         self.duplication = 0
 
-    def _run(self, channels):
+    def find_duplications(self, _channels):
         max_duplication = 0
-        for news in channels:
+        for news in _channels:
             if news.get_channel() == self.channel:
                 continue
             duplication = find_duplication2(get_hash(get_list_of_shingles(self.text)),
@@ -56,14 +52,10 @@ class News(Greenlet):
     def get_duplication(self):
         return self.duplication
 
-    # def _run(self):
-    #     print(self.message)
-    #     gevent.sleep(self.n)
-
 
 def get_data_from_xml():
     f = open('data.xml', 'r')
-    tree = ET.parse(f.name)
+    tree = eT.parse(f.name)
     root = tree.getroot()
 
     urls = []
@@ -73,7 +65,7 @@ def get_data_from_xml():
 
 
 def get_channels(urls):
-    channels = []
+    _channels = []
     for url in urls:
         feed = feedparser.parse(url)
         for item in feed['items']:
@@ -82,30 +74,30 @@ def get_channels(urls):
                 summary = summary[:summary.index('<')]
             if len(summary) < 5:
                 continue
-            channels.append(News(feed['channel'], item['title'], summary))
-    return channels
+            _channels.append(News(feed['feed']['title'], item['title'], summary))
+    return _channels
 
 
-def print_channels(channels):
-    root = ET.Element('data')
-    for news in channels:
-        chan = ET.SubElement(root, 'channel')
-        ET.SubElement(chan, 'name').text = unicode(news.get_channel())
-        news_et = ET.SubElement(chan, 'news')
-        ET.SubElement(news_et, 'theme').text = unicode(news.get_theme())
-        ET.SubElement(news_et, 'text').text = unicode(news.get_text())
+def print_channels(_channels):
+    root = eT.Element('data')
+    for news in _channels:
+        chan = eT.SubElement(root, 'channel')
+        eT.SubElement(chan, 'name').text = unicode(news.get_channel())
+        news_et = eT.SubElement(chan, 'news')
+        eT.SubElement(news_et, 'theme').text = unicode(news.get_theme())
+        eT.SubElement(news_et, 'text').text = unicode(news.get_text())
         # print(news.get_text())
-        ET.SubElement(news_et, 'duplication').text = str(news.get_duplication())
-    tree = ET.ElementTree(root)
+        eT.SubElement(news_et, 'duplication').text = str(news.get_duplication())
+    tree = eT.ElementTree(root)
     tree.write('channels.xml')
 
 
 def get_hash(text):
     shingle_len = 3
-    hash = []
+    _hash = []
     for i in range(len(text) - (shingle_len - 1)):
-        hash.append(binascii.crc32(' '.join([x for x in text[i:i + shingle_len]]).encode('utf-8')))
-    return hash
+        _hash.append(binascii.crc32(' '.join([x for x in text[i:i + shingle_len]]).encode('utf-8')))
+    return _hash
 
 
 def find_duplication2(hash1, hash2):
@@ -118,10 +110,10 @@ def find_duplication2(hash1, hash2):
     return duplication * 2 / float(len(hash1) + len(hash2)) * 100
 
 
-def get_threads(channels):
+def get_threads(_channels):
     threads = []
-    for news in channels:
-        threads.append(gevent.spawn(news._run, channels))
+    for news in _channels:
+        threads.append(gevent.spawn(news.find_duplications, _channels))
     return threads
 
 
@@ -138,12 +130,6 @@ def get_list_of_shingles(text):
             new_text.append(arr_text[i])
     return new_text
 
-
-# print_channels(get_channels(get_data_from_xml()))
-
-# threads = [thread1, thread2, thread3]
-
-# gevent.joinall(threads)
 
 channels = get_channels(get_data_from_xml())
 
