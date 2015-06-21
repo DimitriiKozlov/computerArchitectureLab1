@@ -8,20 +8,19 @@ from python import common
 
 class Tests(unittest.TestCase):
     def test_get_data_from_xml(self):
-        name = 'InTest.xml'
+        name = 'TestData.xml'
         data = common.get_data_from_xml(name)
         self.assertEqual(data, 'url_test')
-
 
     def test_print_channels(self):
         name = 'OutTest.xml'
 
         class News(Greenlet):
-            def __init__(self, channel, theme, text):
+            def __init__(self, _channel, theme, _text):
                 Greenlet.__init__(self)
-                self.channel = channel
+                self.channel = _channel
                 self.theme = theme
-                self.text = text
+                self.text = _text
                 self.duplication = 0
 
         channel = [News('C', 'T', 'T')]
@@ -30,7 +29,6 @@ class Tests(unittest.TestCase):
         text = f.read()
         s = '<data><news><channel>C</channel><theme>T</theme><text>T</text><duplication>0</duplication></news></data>'
         self.assertEqual(text, s)
-
 
     @patch('requests.get')
     def test_get_hash(self, request_function):
